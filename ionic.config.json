@@ -1,0 +1,7 @@
+{
+  "name": "AppPost",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
